@@ -1,10 +1,11 @@
 {
- "name": "TIGER COIN",
- "website": "https://tokenpocket.pro",
- "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
+ "name": "BBcorgidoge",
+ "website": "https://babycorgidogecoin.com",
+ "description": "BBcorgidoge",
+ "explorer": "https://bscscan.com/token/0x77746aFfA4d1829810730001A58C4DAcD89f0Ef4",
  "type": "BEP20",
- "symbol": "TGE",
+ "symbol": "BBcorgidoge",
  "decimals": 18,
- "status": "-",
- "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
+ "status": "active",
+ "id": "0x77746aFfA4d1829810730001A58C4DAcD89f0Ef4"
 }
